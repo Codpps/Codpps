@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codpps&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical" alt="GitHub Streak">
 </p>
 
 <!-- Snake Animation -->
@@ -60,34 +60,12 @@
   <img src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
-<!-- Dark Mode Toggle -->
+<h2 align="center">🌓 Light/Dark Mode</h2>
+
 <p align="center">
-  <a href="#" id="theme-toggle" onclick="toggleTheme()">
-    <img src="https://img.shields.io/badge/Change%20Theme-181717?style=for-the-badge&logo=github&logoColor=white" alt="Change Theme">
+  GitHub doesn't support dynamic theme switching in README files. However, you can view this profile in GitHub's dark mode!
+  <br><br>
+  <a href="https://github.com/settings/appearance">
+    <img src="https://img.shields.io/badge/GitHub%20Theme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Theme Settings">
   </a>
 </p>
-
-<script>
-function toggleTheme() {
-  document.body.classList.toggle('dark-mode');
-  localStorage.setItem('dark-mode', document.body.classList.contains('dark-mode'));
-}
-
-// Check for saved theme preference
-if (localStorage.getItem('dark-mode') === 'true') {
-  document.body.classList.add('dark-mode');
-}
-</script>
-
-<style>
-  body {
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  body.dark-mode {
-    background-color: #1a1a1a;
-    color: #ffffff;
-  }
-  .dark-mode img {
-    filter: invert(1) hue-rotate(180deg);
-  }
-</style>
