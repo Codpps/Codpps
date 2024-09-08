@@ -1,26 +1,30 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dafa!;Welcome+to+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dafa!;Welcome+to+my+profile!&center=true&size=30&weight=800">
   </a>
 </h1>
 
-<p align="center">
-  Hello! My name is Dafa, an experienced web developer from Indonesia with 1 year in software development. Specializing in Laravel, I'm also skilled in React and Flutter, building modern web and mobile applications with a diverse set of tools.
+<p align="center" style="font-size: 18px; font-weight: bold; margin-bottom: 20px;">
+  <span style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px;">Hello! My name is Dafa</span>, an experienced web developer from Indonesia with 1 year in software development. Specializing in <span style="background-color: #ff2d20; color: white; padding: 5px 10px; border-radius: 5px;">Laravel</span>, I'm also skilled in <span style="background-color: #61dafb; color: black; padding: 5px 10px; border-radius: 5px;">React</span> and <span style="background-color: #02569b; color: white; padding: 5px 10px; border-radius: 5px;">Flutter</span>, building modern web and mobile applications with a diverse set of tools.
 </p>
+
+<br><br>
 
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.fairuzdafa85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/your_instagram">
+  <a href="https://www.instagram.com/dpaa.frzz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin">
+  <a href="https://www.linkedin.com/in/dafafairuz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<br><br>
 
 <h2 align="center">🚀 Technologies</h2>
 
@@ -45,6 +49,8 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
+<br><br>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -55,17 +61,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical" alt="GitHub Streak">
 </p>
 
+<br>
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-
-<h2 align="center">🌓 Light/Dark Mode</h2>
-
-<p align="center">
-  GitHub doesn't support dynamic theme switching in README files. However, you can view this profile in GitHub's dark mode!
-  <br><br>
-  <a href="https://github.com/settings/appearance">
-    <img src="https://img.shields.io/badge/GitHub%20Theme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Theme Settings">
-  </a>
 </p>
